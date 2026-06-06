@@ -2,7 +2,7 @@ import React from "react";
 import logo from "../assets/tkr-logo.png";
 
 import construction1 from "../assets/project4-construction1.jpg";
-import construction2 from "../assets/project4-construction2.JPEG";
+import construction2 from "../assets/project4-construction2.Jpeg";
 
 import design1 from "../assets/project4-design1.JPEG";
 import design2 from "../assets/project4-design2.JPEG";
