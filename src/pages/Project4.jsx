@@ -4,8 +4,8 @@ import logo from "../assets/tkr-logo.png";
 import construction1 from "../assets/project4-construction1.jpg";
 import construction2 from "../assets/project4-construction2.Jpeg";
 
-import design1 from "../assets/project4-design1.JPEG";
-import design2 from "../assets/project4-design2.JPEG";
+import design1 from "../assets/project4-design1.jpeg";
+import design2 from "../assets/project4-design2.jpeg";
 
 const Project4 = () => {
   return (
