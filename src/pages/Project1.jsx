@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import logo from "../assets/tkr-logo.png";
 
 import construction1 from "../assets/project1-construction1.jpeg";
@@ -8,6 +8,9 @@ import design1 from "../assets/project1-design1.jpeg";
 import design2 from "../assets/project1-design2.jpeg";
 
 const Project1 = () => {
+   useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 return ( <div className="project-details-page">
 
 
